@@ -6,20 +6,22 @@
 <br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="40%"/>
 
+<details>
+<p><strong> <summary> Busy coding & Vibing to : </summary> </strong></p>
+
+[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <br>
+
+</details>
+
+![Totals Hits](https://komarev.com/ghpvc/?username=YoussefMohamed\&style=flat\&color=orange\&label=PROFILE+VIEWS)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYoussefMohamed\&count_bg=%2379C83D\&title_bg=%23555555\&icon=mediafire.svg\&icon_color=%23E7E7E7\&title=HITS\&edge_flat=false)
+[![telegram badge](https://img.shields.io/badge/YoussefMohamed-grey?style=flat\&logo=telegram)](https://t.me/spxd007) <br>
+
 </div>
 
----
+<hr></hr>
 
-## 🎯 About Me
-
-* 👨‍💻 Beginner C++ Developer — currently learning **C++ from scratch**.
-* 💡 Interested in **problem solving, algorithms, and system fundamentals**.
-* 🚀 Learning how to use **Git & GitHub** properly.
-* 🎧 Coding while listening to music.
-
----
-
-## 🚀 Tools & Technologies I Use
+## 🛠 Tools & Technologies I Use
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat\&logo=c%2B%2B\&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat\&logo=c\&logoColor=white)
@@ -30,7 +32,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat\&logo=linux\&logoColor=black)
 
 ```cpp
-// Simple C++ snippet
+// Sample C++ snippet
 #include <iostream>
 using namespace std;
 
@@ -42,29 +44,22 @@ int main() {
 
 ---
 
+## 🎯 About Me
+
+* 👨‍💻 Beginner C++ Developer — currently learning **C++ from scratch**.
+* 💡 Interested in **problem solving, algorithms, and system fundamentals**.
+* 🚀 Learning **Git & GitHub** workflow.
+* 🎧 Coding while listening to music.
+
+---
+
 ## 📌 Current Goals
 
-* 🔥 Improve my C++ fundamentals.
-* 📚 Practice algorithms & data structures.
-* 🧠 Learn Git & GitHub workflow.
-* 🛠 Build small C++ projects.
+* 🔥 Improve my **C++ fundamentals**.
+* 📚 Practice **algorithms & data structures**.
+* 🧠 Learn **Git & GitHub workflow**.
+* 🛠 Build **small C++ projects**.
 
 ---
 
-## 📬 Contact Me
-
-* 💬 Telegram: **Soon…**
-
----
-
-<div align="center">
-
-### 🔄 Code Cycle
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%"/>
-&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%"/>
-&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%"/>
-
-</div>
+##
